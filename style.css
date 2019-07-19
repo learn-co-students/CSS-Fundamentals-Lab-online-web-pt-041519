@@ -3,3 +3,27 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  color: red;
+}
+p {
+  color: rebeccapurple;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  height: 600px;
+  width: 900px
+}
+
+#featured-property p {
+  width: 800px;
+  text-align: center;
+}
+
+#details {
+  margin: 0 auto;
+  text-align: center;
+}
