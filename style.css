@@ -1,6 +1,21 @@
-body {
-  width: 100%;
+body header, section#featured-property{
+  width: "800px";
   height: 100%;
   margin: 0;
-  background-color: #8AF0C0
+  text-align: center;
+  
+}
+
+nav a {
+  padding: 10px;
+  background-color: lavender;
+}
+
+
+section#details div {
+  background-color: red;
+  display: block;
+  float: left;
+  width: 25%;
+  text-align: center;
 }
